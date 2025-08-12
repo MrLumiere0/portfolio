@@ -245,8 +245,8 @@
 .MainSupportImageInventory {
   width: 100%;
   height: 50%;
-  border-radius: 10px;
-  margin-bottom: 4.5rem;
+  /* border-radius: 10px; */
+  margin-top: 0.5rem;
   background-image: url("../assets/inventory_main_supp.png");
   background-size: contain;
   background-position: center;
@@ -285,8 +285,8 @@
 .MainSupportImageLT {
   width: 100%;
   height: 50%;
-  border-radius: 10px;
-  margin-bottom: 4.5rem;
+  /* border-radius: 10px; */
+  margin-top: 0.5rem;
   background-image: url("../assets/LT_support2.png");
   background-size: contain;
   background-position: center;
@@ -325,8 +325,8 @@
 .MainSupportImageLN {
   width: 100%;
   height: 50%;
-  border-radius: 10px;
-  margin-bottom: 4.5rem;
+  /* border-radius: 10px; */
+  margin-top: 0.5rem;
   background-image: url("../assets/LN_main_supp.png");
   background-size: contain;
   background-position: center;
